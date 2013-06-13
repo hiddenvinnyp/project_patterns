@@ -1,1 +1,1 @@
-numbers in santimetrs -> AJAX -> server -> pdf -> happy user.
+numbers in santimetrs (and/or doll type)-> AJAX -> server -> pdf -> happy user.
